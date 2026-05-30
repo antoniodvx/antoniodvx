@@ -53,7 +53,10 @@ Não tenho diploma tradicional — aprendi na prática, entregando valor real. C
 
 ### IA & Automação
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=chainlink&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-FF6B35?style=flat&logo=anthropic&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?style=flat&logo=deepseek&logoColor=white)
+![Leonardo.AI](https://img.shields.io/badge/Leonardo.AI-00E5A0?style=flat&logo=leonardo&logoColor=black)
 ![CrewAI](https://img.shields.io/badge/CrewAI-FF6B6B?style=flat&logo=robot-framework&logoColor=white)
 
 ### Infra
