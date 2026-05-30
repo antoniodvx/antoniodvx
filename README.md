@@ -20,13 +20,14 @@ Desenvolvedor fullstack com **10+ anos de estrada real**, tocando projetos do ze
 Não tenho diploma tradicional — aprendi na prática, entregando valor real. Cada bug resolvido foi minha sala de aula.
 
 ---
-
-## 🧠 O que estou construindo agora
+## 🧠 Produtos da CodigoDivino - Desenvolvimento Tailor-made.
 
 | Projeto | Stack | Status |
 |---------|-------|--------|
-| **PostMind** | Next.js + Python + IA | Em breve público |
-| **Agente Sim** | Python + LangChain + Agents | Em breve público |
+| **GerarTrafegoGA4** | Laravel + Next.js + IA | Publicado |
+| **getNoticias** | Laravel + Next.js + IA | Publicado |
+| **PostMind** | Laravel + Next.js + IA | Em andamento |
+
 
 > 📌 *Migrando meus repositórios para público — documentando a jornada.*
 
@@ -67,7 +68,7 @@ Não tenho diploma tradicional — aprendi na prática, entregando valor real. C
 
 - 💼 **Negócios:** [codigodivino.com.br](https://codigodivino.com.br)
 - 💬 **LinkedIn:** [linkedin.com/in/antonioassisdev](https://www.linkedin.com/in/antonioassisdev/)
-- 📧 **Email:** [seuemail@aqui.com](mailto:seuemail@aqui.com)
+- 📧 **Email:** [seuemail@aqui.com](mailto:antonio@codigodivino.com.br)
 
 ---
 
