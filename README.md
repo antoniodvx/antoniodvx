@@ -71,7 +71,7 @@ Não tenho diploma tradicional — aprendi na prática, entregando valor real. C
 
 - 💼 **Negócios:** [codigodivino.com.br](https://codigodivino.com.br)
 - 💬 **LinkedIn:** [linkedin.com/in/antonioassisdev](https://www.linkedin.com/in/antonioassisdev/)
-- 📧 **Email:** [seuemail@aqui.com](mailto:antonio@codigodivino.com.br)
+- 📧 **Email:** [antonio@codigodivino.com.br](mailto:antonio@codigodivino.com.br)
 
 ---
 
